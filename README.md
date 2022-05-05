@@ -23,6 +23,10 @@ XD Links can be found here:
 - Here are the screenshots for Desktop: 
     <div align="center">
     <img src="images/screenshot-first-section.png" alt="Screenshot"><br>
+    - I used Slick Slider for this section of the page
+    <img src="images/screenshot-second-section.png" alt="Screenshot"><br>
+    <img src="images/screenshot-third-section.png" alt="Screenshot"><br>
+    <img src="images/screenshot-fourth-section.png" alt="Screenshot"><br>
     </div>
 
 
